@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Book Reviews by Andrew
+description:    "Book reviews."
+url:            "https://andrewnetwork.github.io/BookReviews/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Andrew Ribeiro 
+  url:          https://andrewnetwork.github.io/
+  email:        andrewnetwork@gmail.com
 
 # Build settings
 markdown:       kramdown
